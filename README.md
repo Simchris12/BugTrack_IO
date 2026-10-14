@@ -157,7 +157,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 1. Clonar el repositorio
 
-git clone: 
+git clone: https://github.com/Simchris12/BugTrack_IO.git
 
 
 2. Levantar la Infraestructura
