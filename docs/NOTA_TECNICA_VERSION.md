@@ -46,8 +46,7 @@ Los cambios se registran en `CHANGELOG.md` y se vinculan a Issues y a la documen
 - **Base de datos:** entidades, relaciones e índices aún no implementados en PostgreSQL.
 - **Seguridad:** la autenticación JWT (REQ-05) está especificada, pero su implementación aún no se ha verificado.
 - **Rendimiento:** el cumplimiento de REQ-04 (menos de 2.5 s) no ha sido medido.
-- **Pruebas:** no existen casos de prueba automatizados.
-- **Ejecución:** falta documentar la instalación y el arranque del proyecto.
+
 
 ## 5. Riesgos abiertos
 
