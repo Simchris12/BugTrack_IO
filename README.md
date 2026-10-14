@@ -1,10 +1,5 @@
 # BugTrack_IO
-Plataforma web enfocada en el crowd-testing y la gestión integral de errores de software. Este sistema permite a los evaluadores reportar fallos técnicos y a los desarrolladores realizar un seguimiento del ciclo de vida de cada error, estructurando la solución bajo una arquitectura MVC robusta
-
-
-# BugTrack IO
-
-Plataforma web para crowd-testing y gestión del ciclo de vida de errores de software.
+Plataforma web enfocada en el crowd-testing y la gestión integral de errores de software. Este sistema permite a los evaluadores reportar fallos técnicos y a los desarrolladores realizar un seguimiento del ciclo de vida de cada error, estructurando la solución bajo una arquitectura MVC robusta. Plataforma web para crowd-testing y gestión del ciclo de vida de errores de software.
 
 Proyecto de la asignatura Ingeniería de Software I. Autor: Cristofer Alexander Castillo.
 
